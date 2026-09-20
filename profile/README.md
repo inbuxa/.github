@@ -48,6 +48,14 @@ durable of its own.
 The INBUXA-specific fork of [ihasmail](https://github.com/Coffey-Labs/ihasmail),
 which continues on its own as a general client.
 
+### 🌐 [inbuxa.org](https://inbuxa.org) &nbsp;·&nbsp; the site
+
+**Where the suite is introduced, documented and downloaded.** `inbuxa.com`,
+`inbuxa.net` and the `www.` names redirect to it.
+
+Its repository stays private: it is the site's deployment, not part of the
+product, and nothing in it is needed to run or build INBUXA.
+
 ---
 
 ## Licensing
