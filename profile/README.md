@@ -2,9 +2,14 @@
 
 A complete mail system you run yourself — server, webmail and administration,
 installed and versioned together. **Every feature ships under the AGPL**: there
-is no paid tier, no licence key, and no edition check anywhere in the code.
+is no paid tier, no license key, and no edition check anywhere in the code.
 
-🌐 [inbuxa.org](https://inbuxa.org)
+Built by **[Coffey Labs](https://github.com/Coffey-Labs)**. INBUXA has an
+organization of its own because it is three repositories that ship as one
+thing, and they belong next to each other — not because it is a separate
+shop. The rest of the lab's work, ihasmail included, is over there.
+
+🌐 [inbuxa.org](https://inbuxa.org) &nbsp;·&nbsp; [coffeylabs.org](https://coffeylabs.org) &nbsp;·&nbsp; [@Coffey-Labs](https://github.com/Coffey-Labs)
 
 ---
 
@@ -17,7 +22,7 @@ Sieve, with the spam and DMARC handling, queue management and clustering of a
 server meant to carry real mail.
 
 Nine further capabilities, each rebuilt from a written specification and
-shipped under the same licence as the rest: tenants with their own
+shipped under the same license as the rest: tenants with their own
 domains, administrators and quotas; per-sender masked addresses; deleted mail
 held and restorable; operator branding and message templates; an optional
 local model as one spam signal; stored metrics and traces with live tracing
@@ -52,25 +57,28 @@ which continues on its own as a general client.
 
 ## Licensing
 
-| Project | Licence |
+| Project | License |
 |---|---|
 | inbuxa-server | AGPL-3.0-only |
 | inbuxa-admin | AGPL-3.0-only |
-| ihasmail-inbuxa | AGPL-3.0-only |
+| ihasmail-inbuxa | AGPL-3.0-or-later |
 
 Copyleft without exception — no open-core carve-outs, no source-available
-licences, no relicensed "enterprise" tier. Running INBUXA means its users are
-offered its source, which is the point of choosing this licence rather than a
+licenses, no relicensed "enterprise" tier. Running INBUXA means its users are
+offered its source, which is the point of choosing this license rather than a
 permissive one.
 
 ## Provenance
 
 inbuxa-server is a fork of Stalwart, copyright © Stalwart Labs LLC, taken
-under the AGPL-3.0-only half of its dual licence, with upstream's copyright
+under the AGPL-3.0-only half of its dual license, with upstream's copyright
 notices kept on every file they cover. inbuxa-admin is a fork of Stalwart's
 web interface on the same terms. A few upstream files carry code from other
-projects under MIT or BSD licences, reproduced with their notices in each
+projects under MIT or BSD licenses, reproduced with their notices in each
 repository's `THIRD-PARTY.md`.
 
 Stalwart is a trademark of Stalwart Labs LLC. INBUXA is not affiliated with or
 endorsed by them.
+
+ihasmail-inbuxa is a fork of [ihasmail](https://github.com/Coffey-Labs/ihasmail),
+which is Coffey Labs' own and keeps its AGPL-3.0-or-later terms here.
