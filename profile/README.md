@@ -44,7 +44,7 @@ It talks to the server over JMAP and OAuth like any other client, so it runs
 beside the server or on another machine entirely. The mail host itself serves
 no web interface.
 
-### 📬 [ihasmail-inbuxa](https://github.com/inbuxa/ihasmail-inbuxa) &nbsp;·&nbsp; TypeScript &nbsp;·&nbsp; AGPL-3.0-only
+### 📬 [inbuxa-webmail](https://github.com/inbuxa/inbuxa-webmail) &nbsp;·&nbsp; TypeScript &nbsp;·&nbsp; AGPL-3.0-only
 
 **The webmail.** A JMAP-only single-page client — mail, calendars, contacts,
 files and Sieve filters — in a disposable container that keeps nothing
