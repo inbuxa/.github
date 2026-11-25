@@ -1,11 +1,11 @@
-# INBUXA
+# inbuxa
 
 A complete mail system you run yourself — server, webmail and administration,
 installed and versioned together. **Every feature ships under the AGPL**: there
 is no paid tier, no license key, and no edition check anywhere in the code.
 
-Built by **[Coffey Labs](https://github.com/Coffey-Labs)**. INBUXA has an
-organization of its own because it is three repositories that ship as one
+Built by **[Coffey Labs](https://github.com/Coffey-Labs)**. inbuxa has an
+organization of its own because it is several repositories that ship as one
 thing, and they belong next to each other — not because it is a separate
 shop. The rest of the lab's work, ihasmail included, is over there.
 
@@ -50,7 +50,7 @@ no web interface.
 files and Sieve filters — in a disposable container that keeps nothing
 durable of its own.
 
-The INBUXA-specific fork of [ihasmail](https://github.com/Coffey-Labs/ihasmail),
+The inbuxa-specific fork of [ihasmail](https://github.com/Coffey-Labs/ihasmail),
 which continues on its own as a general client.
 
 ---
@@ -64,7 +64,7 @@ which continues on its own as a general client.
 | ihasmail-inbuxa | AGPL-3.0-or-later |
 
 Copyleft without exception — no open-core carve-outs, no source-available
-licenses, no relicensed "enterprise" tier. Running INBUXA means its users are
+licenses, no relicensed "enterprise" tier. Running inbuxa means its users are
 offered its source, which is the point of choosing this license rather than a
 permissive one.
 
@@ -77,7 +77,7 @@ web interface on the same terms. A few upstream files carry code from other
 projects under MIT or BSD licenses, reproduced with their notices in each
 repository's `THIRD-PARTY.md`.
 
-Stalwart is a trademark of Stalwart Labs LLC. INBUXA is not affiliated with or
+Stalwart is a trademark of Stalwart Labs LLC. inbuxa is not affiliated with or
 endorsed by them.
 
 ihasmail-inbuxa is a fork of [ihasmail](https://github.com/Coffey-Labs/ihasmail),
